@@ -10,3 +10,6 @@ Neste laboratório aprendi como criar maquinas virtuais no Azure, onde podemos e
 
 # Lab Project - Configurando uma instância de Banco de Dados na Azure
 Neste laboratório aprendi como criar um Banco de Dados SQL, onde podemos escolher o nome do servidor e do DB, a localização do servidor/BD, o tipo de autenticação e o modelo de redundância pelo tipo de SLA.
+
+# Lab Project - Construindo Arquiteturas no Azure
+Neste laboratório aprendi como criar um Grupo de Recursos onde posso ter uma coleção de recursos que compartilha o mesmo ciclo de vida, permissões e poíticas.

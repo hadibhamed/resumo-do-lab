@@ -13,3 +13,6 @@ Neste laboratório aprendi como criar um Banco de Dados SQL, onde podemos escolh
 
 # Lab Project - Construindo Arquiteturas no Azure
 Neste laboratório aprendi como criar um Grupo de Recursos onde posso ter uma coleção de recursos que compartilha o mesmo ciclo de vida, permissões e poíticas.
+
+# Lab Project - Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+Neste laboratório aprendi um pouco mais a criar uma Máquina Virtual e uma Área de Trabalho Remota.

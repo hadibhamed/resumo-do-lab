@@ -16,3 +16,6 @@ Neste laboratório aprendi como criar um Grupo de Recursos onde posso ter uma co
 
 # Lab Project - Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 Neste laboratório aprendi um pouco mais a criar uma Máquina Virtual e uma Área de Trabalho Remota.
+
+# Lab Project - Dominando o Armazenamento na Azure
+Neste laboratório aprendi como criar uma Conta de Armazenamento, onde dentro da Conta de Armazenamento podemos criar Contêineres, Compartilhamentos de arquivos, Filas e Tabelas. Aprendi um pouco sobre os metdos de Migração para a Azure onde depedendo do tamanho de dados a ser migrados podemos utilizar o DataBox, o Azcopy ou o Gerenciador do Azure.

@@ -19,3 +19,6 @@ Neste laboratório aprendi um pouco mais a criar uma Máquina Virtual e uma Áre
 
 # Lab Project - Dominando o Armazenamento na Azure
 Neste laboratório aprendi como criar uma Conta de Armazenamento, onde dentro da Conta de Armazenamento podemos criar Contêineres, Compartilhamentos de arquivos, Filas e Tabelas. Aprendi um pouco sobre os metdos de Migração para a Azure onde depedendo do tamanho de dados a ser migrados podemos utilizar o DataBox, o Azcopy ou o Gerenciador do Azure.
+
+# Lab Project - Entendendo sobre Segurança e Identidade na Azure
+Neste laboratório aprendi um pouco como funciona o Microsoft Entra ID e o Microsoft Defender for Cloud.

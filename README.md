@@ -22,3 +22,6 @@ Neste laboratório aprendi como criar uma Conta de Armazenamento, onde dentro da
 
 # Lab Project - Entendendo sobre Segurança e Identidade na Azure
 Neste laboratório aprendi um pouco como funciona o Microsoft Entra ID e o Microsoft Defender for Cloud.
+
+# Lab Project - Otimizando Custos no Azure
+Neste laboratório aprendi um pouco como usar a Calculadora do TCO, a Calculadora de Preços, Cost Management + Billing e Tags.

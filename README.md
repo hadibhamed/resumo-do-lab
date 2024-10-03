@@ -25,3 +25,6 @@ Neste laboratório aprendi um pouco como funciona o Microsoft Entra ID e o Micro
 
 # Lab Project - Otimizando Custos no Azure
 Neste laboratório aprendi um pouco como usar a Calculadora do TCO, a Calculadora de Preços, Cost Management + Billing e Tags.
+
+# Lab Project - Gerenciando Políticas em Acessos Azure
+Neste laboratório aprendi um pouco para que as Politicas servem e como cria-las, aprendi como criar Bloqueios de Delete e ReadOnly, vi um pouco sobre o Microsoft Purview, aprendi um pouco sobre a criação das Policies.

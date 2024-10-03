@@ -31,3 +31,6 @@ Neste laboratório aprendi um pouco para que as Politicas servem e como cria-las
 
 # Lab Project - Ferramentas de Implantação na Azure
 Neste laboratório aprendi um pouco sobre como criar recursos no Azure pelo Portal, via Cloud Shell por linha de comando via Bash ou PowerShell. Vi um pouco da linguagem Bicep usado somente pela Azure. Vi também um pouco da Ferramenta de Gerenciamento MultiCloud Azure ARC.
+
+# Lab Project - Monitoramento Inteligente com o Azure
+Neste laboratório aprendi um pouco sobre o Monitor, o Service Health e o Advisor.

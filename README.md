@@ -28,3 +28,6 @@ Neste laboratório aprendi um pouco como usar a Calculadora do TCO, a Calculador
 
 # Lab Project - Gerenciando Políticas em Acessos Azure
 Neste laboratório aprendi um pouco para que as Politicas servem e como cria-las, aprendi como criar Bloqueios de Delete e ReadOnly, vi um pouco sobre o Microsoft Purview, aprendi um pouco sobre a criação das Policies.
+
+# Lab Project - Ferramentas de Implantação na Azure
+Neste laboratório aprendi um pouco sobre como criar recursos no Azure pelo Portal, via Cloud Shell por linha de comando via Bash ou PowerShell. Vi um pouco da linguagem Bicep usado somente pela Azure. Vi também um pouco da Ferramenta de Gerenciamento MultiCloud Azure ARC.
